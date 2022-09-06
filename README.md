@@ -1,2 +1,2 @@
-# Tailwind ile yaptığım ilk çalışma
+# Tailwind ile yaptığım ilk çalışma.
 
